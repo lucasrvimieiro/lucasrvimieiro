@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá pessoal 👋
 
-<!--
-**lucasrvimieiro/lucasrvimieiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre
+2 anos de experiência em desenvolvimento JavaScript
 
-Here are some ideas to get you started:
+### Detalhes
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrvimieiro&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projeto Recente
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasrvimieiro&repo=TikTok-Clone&theme=dark)](https://github.com/lucasrvimieiro/github-readme-stats)
+
+### Linguagens Utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrvimieiro&layout=compact)](https://github.com/lucasrvimieiro/github-readme-stats)
